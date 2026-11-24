@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = ["labs/*"]
+
+[workspace.package]
+edition = "2021"
+authors = ["Fernando Blesa García"]
+license = "MIT"
